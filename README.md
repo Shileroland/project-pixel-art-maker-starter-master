@@ -17,4 +17,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## This is the link to mypage
 
-Shileroland.github.io
+https://Shileroland.github.io
