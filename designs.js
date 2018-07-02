@@ -2,8 +2,7 @@ var color, width, height;
 
 // When size is submitted by the user, call makeGrid()
 $(function() {
-    $('.btn').click(function(event) {
-        debugger
+    $('.btn').click(function(event) {       
         event.preventDefault();
         width = $('#inputWidth').val();
         height = $('#inputHeight').val();
